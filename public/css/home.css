@@ -35,7 +35,6 @@
 
 .home main section article .detalle{
     padding: 0 15px;
-    border: 1px solid var(--colorGrisClaro);
 }
 
 .home main section article .detalle .camion{
